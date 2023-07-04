@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lk4ajbus0co51qiw?svg=true)](https://ci.appveyor.com/project/maks38750/dz-api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/uq42rixky89bddbj?svg=true)](https://ci.appveyor.com/project/maks38750/dz-api-ci)
